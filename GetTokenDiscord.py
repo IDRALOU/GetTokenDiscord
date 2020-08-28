@@ -1,4 +1,5 @@
-# coding: utf-8
+# DONT SKID
+# MADE BY IDRALOU#0002
 import requests
 import time
 import sys
