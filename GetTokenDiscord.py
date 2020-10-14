@@ -7,6 +7,8 @@ import sys
 import subprocess
 import os
 
+print("Créé par IDRALOU#0002")
+
 
 while True:
     email = str(input("Entrez votre email: "))
