@@ -1,5 +1,6 @@
 # DONT SKID
 # MADE BY IDRALOU#0002
+# FAITES PAS DE SKID VRAIMENT INDIQUEZ LA SOURCE SVP
 import requests
 import time
 import sys
