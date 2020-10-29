@@ -1,5 +1,5 @@
 # DONT SKID
-# MADE BY IDRALOU#0002
+# MADE BY Teobre#0787
 # FAITES PAS DE SKID VRAIMENT INDIQUEZ LA SOURCE SVP
 import requests
 import time
@@ -7,7 +7,7 @@ import sys
 import subprocess
 import os
 
-print("Créé par IDRALOU#0002")
+print("Créé par IDRALOU#0787")
 
 
 while True:
