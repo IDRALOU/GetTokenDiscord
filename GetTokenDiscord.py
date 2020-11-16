@@ -7,7 +7,7 @@ import sys
 import subprocess
 import os
 
-print("Créé par IDRALOU#0787")
+print("Créé par Teobre#0787")
 
 
 while True:
