@@ -1,11 +1,15 @@
 # DONT SKID
 # MADE BY IDRALOU#6966
 # FAITES PAS DE SKID VRAIMENT INDIQUEZ LA SOURCE SVP
-import requests
 import time
 import sys
 import subprocess
 import os
+try:
+    import requests
+except:
+    os.system(f"{sys.executable} -m pip install requests")
+    import requests
 
 print("Créé par IDRALOU#6966")
 
